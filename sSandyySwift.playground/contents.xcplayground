@@ -6,5 +6,8 @@
         <page name='Functions'/>
         <page name='Generic'/>
         <page name='Optional'/>
+        <page name='Tuples'/>
+        <page name='ClassVsStruct'/>
+        <page name='FilterSortMap'/>
     </pages>
 </playground>

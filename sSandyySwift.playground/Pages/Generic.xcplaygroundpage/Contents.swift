@@ -1,7 +1,7 @@
 import Foundation
 
 
-//inout
+//inout  and <T>
 
 
 func SwappingUsingVariable(a: inout Int, b: inout Int) {
